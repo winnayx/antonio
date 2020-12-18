@@ -12,6 +12,7 @@ yarn start ### launches your site at localhost:3000
 ## Next Steps
 ### Online resources
 https://www.theodinproject.com/about
+
 https://www.internetingishard.com
 
 You will probably come across sites like CodeAcademy, FreeCodeCamp. I am not saying those are shit, but these links here are much more useful. See more about the discussion here: https://www.reddit.com/r/webdev/comments/7ngwz7/where_to_start_to_learn_web_development/
