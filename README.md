@@ -4,7 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## To run
 ```
-cd Desktop/antonio
+cd Desktop
+git clone https://github.com/winnayx/antonio.git ### gets the repository on your Desktop!! Google "git clone" to learn more
+cd antonio
 yarn install ### this installs the dependencies used in your project
 yarn start ### launches your site at localhost:3000
 ```
